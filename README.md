@@ -1,2 +1,19 @@
-# Roomcraft
-A web platform using HTML, CSS, JavaScript, Node.js, Express, Langchain, and Hugging Face to generate personalized design ideas based on user input. It incorporates Stable Diffusion with ControlNet for image generation and optimizes front-end performance for improved responsiveness across devices.
+# Roomcraft-Interior_Design_Website
+Welcome to Roomcraft Website!  it’s a website that brings your interior design ideas to life. With a user-friendly interface and a wide range of options, users can customize their design preferences to create their dream space.
+
+## Installation
+
+
+
+```bash
+  pip install -r requirements.txt
+```
+also download node.js 
+
+## Deployment
+
+To deploy this project run
+
+```bash
+  node server.js
+```
